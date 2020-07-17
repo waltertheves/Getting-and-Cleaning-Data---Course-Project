@@ -1,13 +1,3 @@
----
-#title: "README"
-#author: "Walter Theves"
-#date: "17/07/2020"
-#output:
- #html_document: default
-  #pdf_document: default
----
-
-
 ## README
 ### Getting and Cleaning Data - Course Project
 
