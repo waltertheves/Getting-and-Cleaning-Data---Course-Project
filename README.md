@@ -1,5 +1,5 @@
 ---
-title: "README"
+#title: "README"
 #author: "Walter Theves"
 #date: "17/07/2020"
 #output:
@@ -8,6 +8,7 @@ title: "README"
 ---
 
 
+## README
 ### Getting and Cleaning Data - Course Project
 
 This file has the purpose to explain on **how to run the analysis on the proposed Human Activity recognition dataset**. It does not have the intend to explain the ideas behind the study and methodology of how the data being analysed was obtained, but if you wish to know and read about it, a full description of it is available at the site where the data was obtained: <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
