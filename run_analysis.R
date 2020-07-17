@@ -77,6 +77,6 @@ labelingData <- function() {
 ## with the average of each variable for each activity and each subject.
 independentTidyData <- function() {
     TidyData <- aggregate(. ~subject + `activity label`, data, mean)
-    write.table(TidyData, "./tidydata.txt", row.names = TRUE)
+    write.table(TidyData, "./tidydata.txt", row.names = FALSE)
 }
 View(TidyData)
